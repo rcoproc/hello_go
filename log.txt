@@ -1,0 +1,4 @@
+29/10/2019 02:30:58 - https://bionexo.com - online: true
+29/10/2019 02:30:58 - https://www.alura.com.br - online: true
+29/10/2019 02:30:58 - https://www.uol.com.br - online: true
+29/10/2019 02:30:59 - https://www.msn.com.br - online: true
